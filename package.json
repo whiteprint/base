@@ -1,0 +1,25 @@
+{
+  "name": "@whiteprint/base",
+  "version": "0.1.0",
+  "description": "Base styles for Whiteprint",
+  "style": "index.css",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/whiteprint/base.git"
+  },
+  "author": {
+    "name": "Sam Smith",
+    "url": "https://smth.uk"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whiteprint/base/issues"
+  },
+  "homepage": "https://whiteprint.io/base",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "postcss-custom-properties": "^9.0.1",
+    "postcss-import": "^12.0.1"
+  }
+}
