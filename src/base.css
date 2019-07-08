@@ -91,7 +91,7 @@ abbr[title] {
 
 b,
 strong {
-  font-weight: var(--strong-text-weight);
+  font-weight: var(--base-strong-text-weight);
 }
 
 /**

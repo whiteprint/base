@@ -1,7 +1,7 @@
 {
   "name": "@whiteprint/base",
-  "version": "0.1.0",
-  "description": "Base styles for Whiteprint",
+  "version": "0.1.2",
+  "description": "Base styles for Whiteprint, CSS framework",
   "style": "index.css",
   "repository": {
     "type": "git",
