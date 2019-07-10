@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/whiteprint/base/issues"
   },
-  "homepage": "https://whiteprint.io/base",
+  "homepage": "https://whiteprint.io/",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-postcss": "^8.0.0",
