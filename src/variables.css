@@ -1,4 +1,6 @@
 :root {
   --base-font-family: system-ui, -apple-system, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue;
   --base-strong-text-weight: bolder;
+  --base-background-color: #fff;
+  --base-color: #282828;
 }

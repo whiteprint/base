@@ -1,6 +1,7 @@
 module.exports = {
   plugins: {
     'postcss-import': {},
-    'postcss-custom-properties': {preserve: false}
+    'postcss-custom-properties': {preserve: false},
+    'cssnano': {}
   }
 }

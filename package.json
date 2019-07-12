@@ -1,6 +1,6 @@
 {
   "name": "@whiteprint/base",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Base styles for Whiteprint, CSS framework",
   "style": "index.css",
   "repository": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://whiteprint.io/",
   "devDependencies": {
+    "cssnano": "^4.1.10",
     "gulp": "^4.0.2",
     "gulp-postcss": "^8.0.0",
     "postcss-custom-properties": "^9.0.1",

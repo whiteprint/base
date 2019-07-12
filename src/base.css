@@ -12,12 +12,15 @@
  * 1. Correct the line height in all browsers.
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  * 3. Set font family
+ * 4. Set colours
  */
 
 html {
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
   font-family: var(--base-font-family); /* 3 */
+  background-color: var(--base-background-color); /* 4 */
+  color: var(--base-color); /* 4 */
 }
 
 /* Sections
